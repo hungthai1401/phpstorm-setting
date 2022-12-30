@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="linter" type="AUTO_DETECTED" />
       <mapping pattern="pint" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="setup" type="AUTO_DETECTED" />
