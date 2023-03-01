@@ -9,4 +9,8 @@
     <option name="COLLAPSE_METHOD_BODY" value="true" />
     <option name="COLLAPSE_CLASSES" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
