@@ -8,7 +8,7 @@
   </tool>
   <tool name="Psalm" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="./vendor/bin/psalm" />
+      <option name="COMMAND" value="C:\xampp\htdocs\workspace\promotion\vendor\bin\psalm.bat" />
       <option name="PARAMETERS" value="$FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
@@ -22,7 +22,7 @@
   </tool>
   <tool name="Pint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\xampp\htdocs\workspace\promotion\vendor\bin\pint" />
+      <option name="COMMAND" value="C:\xampp\htdocs\workspace\promotion\vendor\bin\pint.bat" />
       <option name="PARAMETERS" value="$FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
