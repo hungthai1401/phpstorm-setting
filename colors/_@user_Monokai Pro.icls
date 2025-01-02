@@ -4,7 +4,7 @@
     <property name="created">2020-01-23T12:07:29</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2025-01-02T08:42:45</property>
+    <property name="modified">2025-01-02T10:04:10</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -457,7 +457,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="" />
+    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -915,7 +915,7 @@
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="939293" />
@@ -2734,8 +2734,8 @@
         <option name="FOREGROUND" value="727272" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_PROLOGUE">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -2748,7 +2748,7 @@
         <option name="FOREGROUND" value="939293" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ff6188" />
