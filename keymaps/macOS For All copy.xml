@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS For All copy" parent="macOS For All">
+  <action id="PhpNewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="PhpNewFile">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+</keymap>

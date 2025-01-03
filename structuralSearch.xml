@@ -1,0 +1,50 @@
+<application>
+  <component name="StructuralSearch">
+    <replaceConfiguration name="Remove return type" text="\):\s(\?)?\w+$" recursive="false" caseInsensitive="false" search_injected="false" reformatAccordingToStyle="true" shortenFQN="true" replacement="\)">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
+  </component>
+  <component name="ui-state">
+    <option name="templatesTreeState">
+      <TreeState>
+        <myExpandedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="Saved Templates" type="cbb8eebc:String" user="Saved Templates" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            <item name="General" type="cbb8eebc:String" user="General" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            <item name="Suspicious" type="cbb8eebc:String" user="Suspicious" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="PHP" type="cbb8eebc:String" user="PHP" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="XML/HTML" type="cbb8eebc:String" user="XML/HTML" />
+          </array>
+        </myExpandedPaths>
+        <mySelectedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="Saved Templates" type="cbb8eebc:String" user="Saved Templates" />
+            <item name="com.intellij.structuralsearch.plugin.replace.ui.ReplaceConfiguration@2d5dd66a" type="f8f1b8f0:ReplaceConfiguration" />
+          </array>
+        </mySelectedPaths>
+      </TreeState>
+    </option>
+    <option name="scopeType" value="PROJECT" />
+    <option name="scopeDescriptor" value="" />
+  </component>
+</application>

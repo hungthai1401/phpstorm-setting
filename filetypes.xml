@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="pint" type="AUTO_DETECTED" />
+      <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="commit-msg" type="AUTO_DETECTED" />
+      <mapping pattern="linter" type="AUTO_DETECTED" />
+      <mapping pattern="setup" type="AUTO_DETECTED" />
+      <mapping pattern="fresh" type="AUTO_DETECTED" />
+      <mapping pattern="dcp" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeeps" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping pattern="check" type="Shell Script" />
+      <mapping pattern="plugin" type="Shell Script" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
+    </extensionMap>
+  </component>
+</application>
