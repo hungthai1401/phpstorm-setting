@@ -2,4 +2,5 @@
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="copilot.disposeInlays" />
 </keymap>
