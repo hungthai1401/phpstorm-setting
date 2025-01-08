@@ -1,4 +1,10 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
