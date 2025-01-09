@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
@@ -16,5 +19,6 @@
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="QuickChangeScheme" />
   <action id="copilot.disposeInlays" />
 </keymap>
