@@ -36,5 +36,11 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="QuickChangeScheme" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.ShowTooltip">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="copilot.disposeInlays" />
 </keymap>
