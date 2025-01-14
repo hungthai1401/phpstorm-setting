@@ -12,6 +12,19 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CodeStyleStatusBarWidget" value="false" />
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="FlowJSInfo" value="false" />
+        <entry key="GridAggregator" value="false" />
+        <entry key="GridPosition" value="false" />
+        <entry key="IdeaVim-Icon" value="false" />
+        <entry key="IdeaVimMacro" value="false" />
+        <entry key="InsertOverwrite" value="false" />
+        <entry key="JSONSchemaSelector" value="false" />
+        <entry key="Position" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
+        <entry key="github.copilot.statusBarWidgetFactory" value="false" />
+        <entry key="php.debug.status.widget" value="false" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
