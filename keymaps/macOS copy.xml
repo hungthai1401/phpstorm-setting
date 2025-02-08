@@ -36,13 +36,13 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="PhpNewClass">
-    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="PhpNewFile">
-    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="PhpNewTest">
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="TypeHierarchy" />
@@ -51,5 +51,6 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="copilot.chat.show" />
   <action id="copilot.disposeInlays" />
 </keymap>
