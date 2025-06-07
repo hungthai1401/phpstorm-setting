@@ -33,7 +33,7 @@
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="PhpListenDebugAction">
-    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="PhpNewClass">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
